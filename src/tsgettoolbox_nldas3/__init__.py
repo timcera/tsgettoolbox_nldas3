@@ -5,7 +5,7 @@ This program is a collection of utilities to download data from various
 web services.
 """
 
-__all__ = ["nldas3"]
+__all__ = ["ldas_nldas3_forcing"]
 
 # Local folder imports
-from .nldas3 import nldas3
+from .nldas3 import ldas_nldas3_forcing
